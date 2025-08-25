@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CyberZ_UE",
+			"Path": "..\\Source\\CyberZ_UE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CyberZ_UEEditor",
+			"Path": "..\\Source\\CyberZ_UEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
